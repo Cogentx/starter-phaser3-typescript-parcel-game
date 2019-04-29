@@ -1,0 +1,17 @@
+{
+  "name": "starter-phaser3-typescript-parcel-game",
+  "version": "1.0.0",
+  "description": "Simple Phaser3 TypeScript Parcel Starter Game/App",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "phaser": "^3.16.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "typescript": "^3.4.5"
+  }
+}
